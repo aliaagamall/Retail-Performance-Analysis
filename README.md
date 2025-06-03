@@ -1,5 +1,9 @@
 # Retail Performance Analysis
 
+## Certificate of Achievement
+This project was completed as part of a job simulation on Forage. View my certificate of completion here:  
+[Forage Completion Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_zM6Eu52TcCx6nTYCa_1748974432663_completion_certificate.pdf)
+
 ## Overview
 This project is a job simulation analyzing 2011 retail performance data to provide insights for the CEO and CMO. It focuses on revenue growth, customer retention, and market expansion, delivering actionable recommendations through effective visualizations.
 
